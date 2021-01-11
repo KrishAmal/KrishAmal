@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Amal Krishnan
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KrishAmal&label=Views&color=blue&style=plastic" alt="krishamal" /> </p>
 
 <!--
 **KrishAmal/KrishAmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
